@@ -1,13 +1,20 @@
-# Updated README
+# Welcome to ChandanLabs
 
-## About
-This project is managed by Chandan Kumar. Please reach out to him at chandan.kumar.sah.teli2005@gmail.com for any queries.
+## Chandan Kumar Sah Teli
 
-## Contributors
-- Chandan Kumar
+**AI/ML Enthusiast** | **Node.js Developer**  
+Email: [chandan.kumar.sah.teli2005@gmail.com](mailto:chandan.kumar.sah.teli2005@gmail.com)  
+GitHub: [https://github.com/ChandanLabs/](https://github.com/ChandanLabs/)  
 
-## Social Media
-- Twitter: @ChandanLabs
+---
 
-## License
-This project is licensed under the terms of the MIT License.
+### About Me
+💻 Passionate about AI and ML  
+🌱 Learning and developing Node.js applications  
+
+### Projects
+- Project A
+- Project B
+
+### Contact Me
+Feel free to reach out for collaborations or inquiries!
