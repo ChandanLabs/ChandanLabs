@@ -1,17 +1,28 @@
-# Welcome to ChandanLabs
+# 👋 Hello, I'm Chandan Kumar Sah Teli
 
-## About Me
+```javascript
+// Animated typing effect
+const greeting = ["AI/ML Enthusiast", "Node.js Developer"];
+let index = 0;
 
-Hello! I am **Chandan Kumar Sah Teli**, an enthusiastic AI/ML enthusiast and a Node.js developer. My aim is to blend innovation with coding in the world of technology!
+function type() {
+    const text = greeting[index % greeting.length];
+    document.getElementById("typed").innerHTML = text;
+    index++;
+}
 
-### 🔥 Skills 🔥
-- **AI & Machine Learning**: Passionate about deriving insights from data using AI techniques.
-- **Node.js**: Experienced in building server-side applications with Node.js.
+setInterval(type, 2000);
+```
 
-### 🚀 Projects 🚀
-I have worked on several projects that showcase my skills in AI/ML and web development. Stay tuned for updates!
+## 🚀 Tech Stack
+![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=flat&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat&logo=git&logoColor=white)
 
-### 🌟 Let's Connect! 🌟
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/chandan-sah-teli) or follow me on GitHub!
+## 📈 GitHub Stats
+![Chandan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChandanLabs&show_icons=true&theme=radical)
 
----
+## ✨ A Quick Overview
+I specialize in creating web applications using innovative technologies. My passion lies in AI and machine learning, where I strive to build intelligent systems that can revolutionize industries.
+
+Feel free to connect with me!
