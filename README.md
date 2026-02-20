@@ -1,20 +1,17 @@
 # Welcome to ChandanLabs
 
-## Chandan Kumar Sah Teli
+## About Me
 
-**AI/ML Enthusiast** | **Node.js Developer**  
-Email: [chandan.kumar.sah.teli2005@gmail.com](mailto:chandan.kumar.sah.teli2005@gmail.com)  
-GitHub: [https://github.com/ChandanLabs/](https://github.com/ChandanLabs/)  
+Hello! I am **Chandan Kumar Sah Teli**, an enthusiastic AI/ML enthusiast and a Node.js developer. My aim is to blend innovation with coding in the world of technology!
+
+### 🔥 Skills 🔥
+- **AI & Machine Learning**: Passionate about deriving insights from data using AI techniques.
+- **Node.js**: Experienced in building server-side applications with Node.js.
+
+### 🚀 Projects 🚀
+I have worked on several projects that showcase my skills in AI/ML and web development. Stay tuned for updates!
+
+### 🌟 Let's Connect! 🌟
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/chandan-sah-teli) or follow me on GitHub!
 
 ---
-
-### About Me
-💻 Passionate about AI and ML  
-🌱 Learning and developing Node.js applications  
-
-### Projects
-- Project A
-- Project B
-
-### Contact Me
-Feel free to reach out for collaborations or inquiries!
