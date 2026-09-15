@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0b0f14,50:18212b,100:4b5d68&height=220&section=header&text=CHANDAN%20KUMAR%20SAH%20TELI&fontSize=46&fontColor=e6edf3&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%7C%20AI&descAlignY=58&descSize=17&descColor=8b949e" width="100%" />
 
 <a href="https://github.com/ChandanLabs">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1400&color=58A6FF&center=true&vCenter=true&width=850&lines=Building+backend+systems;Solving+problems+with+DSA;Integrating+AI+into+real+applications;Learning+cloud+and+distributed+systems;Currently%3A+Open+to+Software+Engineering+Opportunities" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1400&color=58A6FF&center=true&vCenter=true&width=850&lines=Building+backend+systems;Solving+problems+with+DSA;Integrating+AI+into+real+applications;Learning+cloud+and+DevOps;Currently%3A+Open+to+Software+Engineering+Opportunities" alt="Typing introduction" />
 </a>
 
 </div>
@@ -14,20 +14,19 @@
 
 </div>
 
-<br>
-
 <div align="center">
 
 <h3>
 <kbd>Software Engineer</kbd> &nbsp;
 <kbd>Backend Developer</kbd> &nbsp;
+<kbd>Problem Solver</kbd> &nbsp;
 <kbd>AI Builder</kbd>
 </h3>
 
 <p>
 <i>
-"Turning ideas into reliable software through backend engineering,
-data structures, APIs, and practical AI integration."
+Building practical software through backend engineering, problem solving,
+APIs, databases, and AI integration.
 </i>
 </p>
 
@@ -41,88 +40,109 @@ data structures, APIs, and practical AI integration."
 <img src="https://skillicons.dev/icons?i=java,python,js,ts,c,react,nextjs,nodejs,express,fastapi,spring,mongodb,mysql,postgresql,git,github,docker,linux&perline=9" />
 </p>
 
+<p align="center">
+<kbd>Backend Engineering</kbd>
+&nbsp;
+<kbd>Problem Solver</kbd>
+&nbsp;
+<kbd>AI Integration</kbd>
+&nbsp;
+<kbd>API Development</kbd>
+&nbsp;
+<kbd>Database Systems</kbd>
+</p>
+
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0f14,50:8b949e,100:0b0f14&height=3&section=footer" width="55%" />
-
 </div>
 
 <br>
 
-<h2 align="center">🧠 What I Work On</h2>
+<h2 align="center">🧩 How I Build</h2>
+
+<div align="center">
+
+<img src="./assets/engineering-flow.gif" width="850" alt="Animated engineering system flow" />
+
+</div>
+
+<p align="center">
+From problem definition and system design to backend services, AI workflows,
+data, testing, deployment, and continuous iteration.
+</p>
+
+<div align="center">
+<img src="./assets/engineering-runtime.gif" width="760" alt="Animated engineering runtime" />
+</div>
+
+<p align="center"><i>Interactive feel through lightweight animations — designed to render cleanly on GitHub.</i></p>
+
+<br>
+
+<h2 align="center">🧠 Engineering Focus</h2>
 
 <table align="center" width="90%">
 <tr>
-
 <td width="50%" valign="top">
 
-### Backend Engineering
+Backend Engineering
 
-Building RESTful services and backend workflows using:
+Building RESTful services and application workflows with:
 
-`FastAPI` · `Node.js` · `Express.js` · `Spring Boot`
+FastAPI · Node.js · Express.js · Spring Boot
 
 Working with:
 
-`SQL` · `PostgreSQL` · `MySQL` · `MongoDB`
+PostgreSQL · MySQL · MongoDB
 
 </td>
 
 <td width="50%" valign="top">
 
-### Problem Solving
+Problem Solving
 
-Focused on:
+Improving algorithmic thinking through:
 
-`Data Structures & Algorithms`
+Data Structures · Algorithms · OOP
 
-`OOP` · `DBMS` · `Operating Systems`
-
-`Computer Networks` · `Problem Solving`
+DBMS · Operating Systems · Computer Networks
 
 </td>
-
 </tr>
 
 <tr>
-
 <td width="50%" valign="top">
 
-### AI Integration
+AI Integration
 
-Building practical applications with:
+Using:
 
-`Gemini API` · `OpenAI API`
+Gemini API · OpenAI API
 
-`Generative AI` · `Prompt Engineering`
+Generative AI · Prompt Engineering
 
-AI-assisted automation and intelligent workflows.
+to build useful automation and intelligent workflows.
 
 </td>
 
 <td width="50%" valign="top">
 
-### Engineering Practices
+Engineering Practices
 
-Interested in:
+API Design · Validation · Debugging
 
-`API Design` · `Validation` · `Debugging`
+Authentication · RBAC
 
-`Authentication` · `RBAC`
-
-`Docker` · `Git` · `GitHub Actions`
+Git · Docker · GitHub Actions
 
 </td>
-
 </tr>
 </table>
 
 <br>
 
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0f14,50:58a6ff,100:0b0f14&height=3&section=footer" width="55%" />
-
 </div>
 
 <br>
@@ -137,7 +157,11 @@ Interested in:
 
 <h3>💼 Experience</h3>
 
-<b>Web Development Intern</b> <br> <i>SkillDzire Technologies, Hyderabad</i> <br> <kbd>May 2025 – Jun 2025</kbd>
+<b>Web Development Intern</b>
+<br>
+<i>SkillDzire Technologies, Hyderabad</i>
+<br>
+<kbd>May 2025 – Jun 2025</kbd>
 
 <br><br>
 
@@ -148,8 +172,8 @@ Interested in:
 <br><br>
 
 Worked on full-stack web features, backend integrations,
-REST APIs, database connectivity, debugging, and
-Git-based development workflows.
+REST APIs, database connectivity, debugging, and Git-based
+development workflows.
 
 </td>
 
@@ -157,7 +181,11 @@ Git-based development workflows.
 
 <h3>🎓 Education</h3>
 
-<b>B.Tech — Computer Science & Engineering</b> <br> <i>Aditya University, India</i> <br> <kbd>Sep 2023 – May 2027</kbd>
+<b>B.Tech — Computer Science & Engineering</b>
+<br>
+<i>Aditya University, India</i>
+<br>
+<kbd>Sep 2023 – May 2027</kbd>
 
 <br><br>
 
@@ -179,67 +207,81 @@ Git-based development workflows.
 <br>
 
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0f14,50:8b949e,100:0b0f14&height=3&section=footer" width="55%" />
-
 </div>
 
 <br>
 
-<h2 align="center">🚀 Featured Projects</h2>
+<h2 align="center">🤖 Featured Build</h2>
 
 <table align="center" width="90%">
-
 <tr>
+<td valign="top">
 
-<td width="50%" align="center" valign="top">
+<h3>The AI Spammer — Placement Compliance & Nudge Bot</h3>
 
-<h3>🤖 The AI Spammer</h3>
+<p>
+An AI-powered placement automation platform that processes student CSV uploads,
+tracks registration status, connects Telegram accounts, and automates
+follow-ups with scheduled reminders.
+</p>
 
-<b>Placement Compliance & Nudge Bot</b>
-
-<br><br>
-
-<i>
-AI-powered placement automation platform that processes
-student data, tracks registration status, and automates
-follow-ups until completion or deadline.
-</i>
-
-<br><br>
+<div align="center">
 
 <img src="https://img.shields.io/badge/Python-0b0f14?style=for-the-badge&logo=python&logoColor=3776AB"/>
 <img src="https://img.shields.io/badge/FastAPI-0b0f14?style=for-the-badge&logo=fastapi&logoColor=009688"/>
 <img src="https://img.shields.io/badge/SQLAlchemy-0b0f14?style=for-the-badge&logo=sqlalchemy&logoColor=D71F00"/>
 <img src="https://img.shields.io/badge/Pandas-0b0f14?style=for-the-badge&logo=pandas&logoColor=150458"/>
 <img src="https://img.shields.io/badge/Gemini_API-0b0f14?style=for-the-badge&logo=googlegemini&logoColor=8E75B2"/>
+<img src="https://img.shields.io/badge/Next.js-0b0f14?style=for-the-badge&logo=next.js&logoColor=white"/>
 
-<br><br>
+</div>
 
-<p>
-CSV processing · REST APIs · Student tracking ·
-Telegram automation · Scheduled jobs · Admin dashboard
+<br>
+
+CSV Upload
+    │
+    ▼
+FastAPI ───────► Validation / Database
+    │
+    ▼
+Scheduler ─────► AI-assisted Nudge Logic
+    │
+    ├────────────► Telegram
+    │
+    └────────────► Admin Dashboard
+
+<p align="center">
+CSV ingestion · REST APIs · Scheduled jobs · Telegram automation ·
+Student tracking · Admin dashboard
 </p>
 
 </td>
+</tr>
+</table>
 
-<td width="50%" align="center" valign="top">
+<br>
 
-<h3>🛡️ SentinelAI</h3>
+<h2 align="center">🛡️ Other Build</h2>
 
-<b>Intelligent Security Monitoring Platform</b>
+<table align="center" width="90%">
+<tr>
+<td align="center">
+
+<b>SentinelAI — Intelligent Security Monitoring Platform</b>
 
 <br><br>
 
 <i>
-Full-stack security monitoring platform combining
-deterministic rules with anomaly detection to generate
+Full-stack security monitoring platform combining deterministic rules
+with Isolation Forest anomaly detection to generate explainable
 risk scores, alerts, and incidents.
 </i>
 
 <br><br>
 
 <img src="https://img.shields.io/badge/Next.js-0b0f14?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-0b0f14?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
 <img src="https://img.shields.io/badge/Spring_Boot-0b0f14?style=for-the-badge&logo=springboot&logoColor=6DB33F"/>
 <img src="https://img.shields.io/badge/FastAPI-0b0f14?style=for-the-badge&logo=fastapi&logoColor=009688"/>
 <img src="https://img.shields.io/badge/PostgreSQL-0b0f14?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
@@ -247,16 +289,18 @@ risk scores, alerts, and incidents.
 
 <br><br>
 
-<p>
-Anomaly detection · JWT · RBAC · Validation ·
-Risk scoring · Docker Compose · REST APIs
-</p>
+Risk scoring · Anomaly detection · JWT · RBAC · Validation ·
+Docker Compose · REST APIs
 
 </td>
-
 </tr>
-
 </table>
+
+<br>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0f14,50:58a6ff,100:0b0f14&height=3&section=footer" width="55%" />
+</div>
 
 <br>
 
@@ -264,85 +308,16 @@ Risk scoring · Docker Compose · REST APIs
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center">
-
-<b>Backend Systems</b> <br>
-Designing APIs and database-driven workflows
-
-</td>
-
-<td align="center">
-
-<b>AI Applications</b> <br>
-Integrating LLMs into useful software systems
-
-</td>
-
-<td align="center">
-
-<b>DSA</b> <br>
-Improving algorithmic thinking and implementation
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
-<br>
-
-<h2 align="center">📈 Engineering Mindset</h2>
-
-<div align="center">
-
-```text
-Understand the problem
-        ↓
-Design the approach
-        ↓
-Build the smallest working solution
-        ↓
-Test edge cases
-        ↓
-Optimize where necessary
-        ↓
-Ship → Learn → Improve
-```
+Backend Systems  • 
+AI Applications  • 
+Problem Solving  • 
+Cloud & DevOps
 
 </div>
 
 <p align="center">
-I enjoy understanding how systems work,
-breaking problems into smaller pieces,
-and turning them into working software.
+Learning by building, testing, debugging, and improving real applications.
 </p>
-
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0f14,50:58a6ff,100:0b0f14&height=3&section=footer" width="55%" />
-
-</div>
-
-<br>
-
-<h2 align="center">🏆 Certifications</h2>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Infosys-Data_Structures_%26_Algorithms_using_Java-0b0f14?style=for-the-badge&logoColor=58A6FF"/>
-
-<img src="https://img.shields.io/badge/Google_%26_Kaggle-5--Day_Agentic_AI_Intensive-0b0f14?style=for-the-badge&logo=google&logoColor=4285F4"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Oracle-Cloud_Infrastructure_Foundations_Associate-0b0f14?style=for-the-badge&logo=oracle&logoColor=F80000"/>
-
-</div>
 
 <br>
 
@@ -372,7 +347,7 @@ and turning them into working software.
 
 <div align="center">
 
-### Open to Software Engineering Opportunities
+Open to Software Engineering Opportunities
 
 Backend Development · Software Engineering · AI Engineering
 
