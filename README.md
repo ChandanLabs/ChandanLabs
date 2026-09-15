@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0b0f14,50:18212b,100:4b5d68&height=220&section=header&text=CHANDAN%20KUMAR%20SAH%20TELI&fontSize=46&fontColor=e6edf3&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%7C%20AI&descAlignY=58&descSize=17&descColor=8b949e" width="100%" />
 
 <a href="https://github.com/ChandanLabs">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1400&color=58A6FF&center=true&vCenter=true&width=850&lines=Building+backend+systems;Solving+problems+with+DSA;Integrating+AI+into+real+applications;Learning+cloud+and+DevOps;Currently%3A+Open+to+Software+Engineering+Opportunities" alt="Typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1400&color=58A6FF&center=true&vCenter=true&width=850&lines=Building+backend+systems;Solving+problems;Integrating+AI+into+real+applications;Learning+cloud+and+DevOps;Currently%3A+Open+to+Software+Engineering+Opportunities" alt="Typing introduction" />
 </a>
 
 </div>
@@ -74,8 +74,6 @@ data, testing, deployment, and continuous iteration.
 <div align="center">
 <img src="./assets/engineering-runtime.gif" width="760" alt="Animated engineering runtime" />
 </div>
-
-<p align="center"><i>Interactive feel through lightweight animations — designed to render cleanly on GitHub.</i></p>
 
 <br>
 
@@ -157,11 +155,7 @@ Git · Docker · GitHub Actions
 
 <h3>💼 Experience</h3>
 
-<b>Web Development Intern</b>
-<br>
-<i>SkillDzire Technologies, Hyderabad</i>
-<br>
-<kbd>May 2025 – Jun 2025</kbd>
+<b>Web Development Intern</b> <br> <i>SkillDzire Technologies, Hyderabad</i> <br> <kbd>May 2025 – Jun 2025</kbd>
 
 <br><br>
 
@@ -181,11 +175,7 @@ development workflows.
 
 <h3>🎓 Education</h3>
 
-<b>B.Tech — Computer Science & Engineering</b>
-<br>
-<i>Aditya University, India</i>
-<br>
-<kbd>Sep 2023 – May 2027</kbd>
+<b>B.Tech — Computer Science & Engineering</b> <br> <i>Aditya University, India</i> <br> <kbd>Sep 2023 – May 2027</kbd>
 
 <br><br>
 
@@ -239,6 +229,7 @@ follow-ups with scheduled reminders.
 
 <br>
 
+<pre>
 CSV Upload
     │
     ▼
@@ -250,6 +241,7 @@ Scheduler ─────► AI-assisted Nudge Logic
     ├────────────► Telegram
     │
     └────────────► Admin Dashboard
+</pre>
 
 <p align="center">
 CSV ingestion · REST APIs · Scheduled jobs · Telegram automation ·
@@ -308,9 +300,9 @@ Docker Compose · REST APIs
 
 <div align="center">
 
-Backend Systems  • 
-AI Applications  • 
-Problem Solving  • 
+Backend Systems  •
+AI Applications  •
+Problem Solving  •
 Cloud & DevOps
 
 </div>
