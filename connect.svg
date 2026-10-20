@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 470" width="1280" height="470" role="img" aria-labelledby="title desc">
+<title id="title">Let's connect with Chandan</title><desc id="desc">A friendly original vector developer avatar points toward contact cards for GitHub, email, LinkedIn and portfolio.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#15172a"/><stop offset="1" stop-color="#0d0e16"/></linearGradient>
+ <linearGradient id="a" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#22d3ee"/><stop offset=".52" stop-color="#a78bfa"/><stop offset="1" stop-color="#f472b6"/></linearGradient>
+ <style><![CDATA[
+ text{font-family:Inter,Segoe UI,Arial,sans-serif}.mono{font-family:ui-monospace,Consolas,monospace}
+ .card{fill:#111827;stroke:#33415a;stroke-width:1.2}.arrow{animation:nudge 1.8s ease-in-out infinite}
+ @keyframes nudge{0%,100%{transform:translateX(0)}50%{transform:translateX(5px)}}
+ @keyframes glow{0%,100%{opacity:.25}50%{opacity:.8}}
+ .halo{animation:glow 4s ease-in-out infinite}
+ @media(prefers-reduced-motion:reduce){*{animation:none!important}}
+ ]]></style>
+</defs>
+<rect width="1280" height="470" rx="26" fill="url(#bg)"/><rect x="1" y="1" width="1278" height="468" rx="25" fill="none" stroke="url(#a)" stroke-opacity=".65"/>
+<circle class="halo" cx="170" cy="245" r="130" fill="#22d3ee" opacity=".06"/>
+<text x="48" y="52" fill="#22d3ee" font-size="12" font-weight="800" letter-spacing="3">HAVE AN IDEA? LET'S BUILD.</text>
+<text x="48" y="88" fill="#eceef6" font-size="28" font-weight="800">Good software starts with a conversation.</text>
+<!-- Original vector developer character -->
+<g transform="translate(52 118)">
+ <ellipse cx="151" cy="292" rx="125" ry="12" fill="#000" opacity=".24"/>
+ <path d="M63 288l15-88q16-51 70-51h18q55 0 72 51l16 88z" fill="#25334a" stroke="#51647f" stroke-width="1.5"/>
+ <path d="M124 151q-13-8-9-37 3-39 36-46 43-8 59 28 8 21-2 51l-17 29h-49z" fill="#14121c"/>
+ <path d="M122 113q0-40 36-43 36 3 38 42l-5 22q-9 23-32 25-22-2-32-25z" fill="#bd805e"/>
+ <path d="M118 112q-7-40 18-51 27-15 48 3 19 14 15 45l-13-25-18 1-17-7-24 34z" fill="#14121c"/>
+ <path d="M128 119h10m21 0h10" stroke="#271d1b" stroke-width="3" stroke-linecap="round"/>
+ <path d="M141 139q12 8 23-1" fill="none" stroke="#5c3028" stroke-width="3" stroke-linecap="round"/>
+ <path d="M132 166l28 25 26-25 20 23-19 39h-53l-21-39z" fill="#22d3ee" opacity=".9"/>
+ <path d="M160 191v91M146 210h28" stroke="#a78bfa" stroke-width="2" opacity=".9"/>
+ <!-- pointing arm -->
+ <path d="M200 208q26-11 42-31l24-29q7-8 13 0 4 5-1 11l-10 15 43-8q11-2 12 7 1 7-10 10l-47 14q-27 27-50 46z" fill="#bd805e" stroke="#8d5b48" stroke-width="1"/>
+ <path d="M286 174l34-7q9-1 11 5t-7 8l-29 6" fill="#bd805e" stroke="#8d5b48" stroke-width="1"/>
+ <path d="M80 287l-8 48h52l17-47M182 288l14 47h52l-13-50" fill="#171b29" stroke="#3b4961" stroke-width="2"/>
+ <path d="M66 335h62l-4 11H53q-5-6 13-11M191 335h61q20 6 13 11h-72z" fill="#27354c"/>
+ <rect x="102" y="239" width="116" height="36" rx="7" fill="#0d1019" stroke="#50617c"/><text x="160" y="261" class="mono" fill="#22d3ee" font-size="11" text-anchor="middle">LET'S CONNECT</text>
+</g>
+<g transform="translate(430 126)">
+ <text x="0" y="0" fill="#a78bfa" font-size="11" font-weight="800" letter-spacing="2">FIND ME AROUND THE WEB</text>
+ <g transform="translate(0 24)">
+  <rect class="card" width="365" height="72" rx="13"/><circle cx="36" cy="36" r="19" fill="#152b37" stroke="#22d3ee"/><path d="M27 31q9-12 18 0v10l-9 6-9-6z" fill="none" stroke="#b8f7ff" stroke-width="2"/>
+  <text x="68" y="31" fill="#eceef6" font-size="16" font-weight="800">GitHub</text><text x="68" y="51" fill="#96a5bf" font-size="12">github.com/AIFullstack-web</text>
+  <g class="arrow" transform="translate(330 36)"><path d="M-6 0h13m-5-5 5 5-5 5" fill="none" stroke="#22d3ee" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g>
+ </g>
+ <g transform="translate(0 110)">
+  <rect class="card" width="365" height="72" rx="13"/><circle cx="36" cy="36" r="19" fill="#302033" stroke="#f472b6"/><rect x="25" y="29" width="22" height="15" rx="3" fill="none" stroke="#ffcde7" stroke-width="2"/><path d="M26 31l10 7 10-7" fill="none" stroke="#ffcde7" stroke-width="2"/>
+  <text x="68" y="31" fill="#eceef6" font-size="16" font-weight="800">Email</text><text x="68" y="51" fill="#96a5bf" font-size="12">chandansah.ai.dev@gmail.com</text>
+  <g class="arrow" transform="translate(330 36)"><path d="M-6 0h13m-5-5 5 5-5 5" fill="none" stroke="#f472b6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g>
+ </g>
+ <g transform="translate(390 24)">
+  <rect class="card" width="365" height="72" rx="13"/><circle cx="36" cy="36" r="19" fill="#251e3c" stroke="#a78bfa"/><text x="36" y="42" fill="#e5daff" font-size="18" font-weight="900" text-anchor="middle">in</text>
+  <text x="68" y="31" fill="#eceef6" font-size="16" font-weight="800">LinkedIn</text><text x="68" y="51" fill="#96a5bf" font-size="12">Connect professionally</text>
+  <g class="arrow" transform="translate(330 36)"><path d="M-6 0h13m-5-5 5 5-5 5" fill="none" stroke="#a78bfa" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g>
+ </g>
+ <g transform="translate(390 110)">
+  <rect class="card" width="365" height="72" rx="13"/><circle cx="36" cy="36" r="19" fill="#153126" stroke="#34d399"/><circle cx="36" cy="36" r="8" fill="none" stroke="#c2ffe3" stroke-width="2"/><path d="M22 36h28M36 22v28" stroke="#c2ffe3" stroke-width="1.5"/>
+  <text x="68" y="31" fill="#eceef6" font-size="16" font-weight="800">Portfolio</text><text x="68" y="51" fill="#96a5bf" font-size="12">Projects, experiments and progress</text>
+  <g class="arrow" transform="translate(330 36)"><path d="M-6 0h13m-5-5 5 5-5 5" fill="none" stroke="#34d399" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g>
+ </g>
+ <text x="0" y="230" class="mono" fill="#65738e" font-size="10">SURAMPALEM, ANDHRA PRADESH · OPEN TO LEARNING AND COLLABORATION</text>
+</g>
+</svg>

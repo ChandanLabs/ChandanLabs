@@ -1,154 +1,86 @@
 <div align="center">
 
-# CHANDAN KUMAR SAH TELI
+<table><tr><td width="27%" align="center" valign="middle"><img src="./assets/chandan-portrait.jpg" width="220" alt="Original portrait of Chandan Kumar Sah Teli"/><br/><strong>B.Tech CSE Student · 2027</strong><br/>Aditya University</td><td width="73%" valign="middle"><img src="./hero.svg?v=1" alt="Animated AI backend developer hero" width="100%"/></td></tr></table>
 
-### Software Engineer · Backend · AI
+<br/><br/>
 
-**Building backend systems and AI-powered applications that solve real problems.**
+<img src="./about-life.svg?v=1" alt="What I build and life beyond code" width="100%"/>
 
-[GitHub](https://github.com/ChandanLabs) · [LinkedIn](https://www.linkedin.com/in/chandan-kumar-sah-teli-8718b6364/) · [Portfolio](https://chandanlabs.github.io/Chandanportfolio/) · [Email](mailto:chandansah.ai.dev@gmail.com)
+<br/><br/>
+
+<img src="./stack.svg?v=1" alt="Continuously rotating technology orbit" width="100%"/>
+
+<br/><br/>
+
+<img src="./id-dashboard.svg?v=1" alt="Student developer ID and engineering dashboard" width="100%"/>
+
+<br/><br/>
 
 </div>
 
----
+## 🚀 Featured builds
 
-## 👋 About Me
+| Project | What it does | Stack |
+|:---|:---|:---|
+| [**SentinelAI**](https://github.com/ChandanLabs/SentinelAI) | Security monitoring with rule-based detection and Isolation Forest anomaly scoring | Next.js · TypeScript · Spring Boot · FastAPI · PostgreSQL · Docker |
+| [**CampusGPT**](https://github.com/ChandanLabs/CampusGPT) | AI-powered learning assistant for academic Q&A and document understanding | Python · FastAPI · React · Gemini API |
+| [**PlacementPulse**](https://github.com/ChandanLabs/PlacementPulse) | Placement workflow automation, student status tracking and Telegram follow-ups | Python · FastAPI · SQLAlchemy · Next.js |
+| [**Building AI Agents**](https://github.com/ChandanLabs/Building-AI-agents) | Practical exploration of tool use, memory, RAG, planning and agent evaluation | Python · JavaScript · Gemini API · OpenAI API |
+| [**SubmitReady**](https://github.com/ChandanLabs/submitready-aws) | Pre-submission validation workflow for application and scholarship packets | Node.js · AWS SAM · Lambda |
 
-I'm a Computer Science student at **Aditya University**, graduating in **April 2027**.
+## 👨‍💻 About me
 
-I build software across **backend engineering, AI applications, APIs, databases, and cloud-oriented workflows**.
+I'm a **B.Tech Computer Science & Engineering student at Aditya University**, graduating in **2027**, focused on backend engineering and AI-enabled software.
 
-My main interests are:
+- Building backend services, REST APIs, database-backed applications and AI integrations.
+- Learning cloud and DevOps workflows through hands-on projects.
+- Practising data structures, algorithms and core computer science fundamentals.
+- Interested in software engineering and AI engineering internship opportunities.
 
-* Backend systems and REST APIs
-* AI-powered applications and agent systems
-* Databases and application architecture
-* Software engineering fundamentals and problem solving
+## 🧰 Technology orbit
 
-I'm currently looking for **Software Engineering / AI Engineering internship opportunities**.
+**Languages:** Java · JavaScript · Python · TypeScript  
+**Backend:** Node.js · Express.js · Spring Boot · FastAPI · REST APIs  
+**Frontend:** React · Next.js · HTML · CSS  
+**AI/ML:** Generative AI · Gemini API · OpenAI API · AI agents · anomaly detection  
+**Data:** PostgreSQL · MySQL · MongoDB  
+**Engineering tools:** IntelliJ IDEA · VS Code · Git · GitHub · GitHub Actions · QA testing  
+**Infrastructure:** Docker · Linux · Kubernetes *(currently learning)*
 
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-`Java` `Python` `JavaScript` `TypeScript`
-
-**Backend**
-
-`Spring Boot` `FastAPI` `Node.js` `Express.js`
-
-**Frontend**
-
-`React` `Next.js`
-
-**Data & Infrastructure**
-
-`PostgreSQL` `MongoDB` `MySQL` `Docker` `Linux` `Git`
-
-**AI**
-
-`Gemini API` `OpenAI API` `Generative AI` `AI Agents`
-
----
-
-## 🚀 Selected Projects
-
-### 🛡️ [SentinelAI](https://github.com/ChandanLabs/SentinelAI)
-
-**Intelligent Security Monitoring Platform**
-
-A full-stack security monitoring platform combining **rule-based detection** with **Isolation Forest anomaly detection** to generate risk scores, alerts, and incidents.
-
-**Stack:** Next.js · TypeScript · Spring Boot · FastAPI · PostgreSQL · Docker
-
-`Anomaly Detection` `Risk Scoring` `JWT` `RBAC` `REST APIs`
-
----
-
-### 🧠 [CampusGPT](https://github.com/ChandanLabs/CampusGPT)
-
-**Multimodal AI Learning Platform**
-
-An AI-powered learning assistant for students using the **Gemini API** for academic question answering, document understanding, and contextual explanations.
-
-**Stack:** Python · FastAPI · React · Gemini API
-
-`Multimodal AI` `Prompt Engineering` `AI Application` `Deployed`
-
----
-
-### 📋 [PlacementPulse](https://github.com/ChandanLabs/PlacementPulse)
-
-**Campus Placement Compliance Automation**
-
-A placement workflow automation platform that processes student data, tracks registration status, and sends scheduled follow-up nudges through Telegram.
-
-**Stack:** Python · FastAPI · SQLAlchemy · Gemini API · Next.js
-
-`CSV Ingestion` `Telegram Automation` `Scheduled Jobs` `Admin Dashboard`
-
----
-
-### 🤖 [Building AI Agents](https://github.com/ChandanLabs/Building-AI-agents)
-
-**AI Agent Engineering Lab**
-
-A public engineering lab exploring how AI systems evolve from simple LLM calls into systems with **tool use, memory, RAG, planning, multi-agent workflows, and evaluation**.
-
-**Stack:** Python · JavaScript · Gemini API · OpenAI API
-
-`Tool Use` `RAG` `Memory` `Planning` `Multi-Agent` `Evaluation`
-
----
+The animated orbit above highlights these tools; its motion is created with SVG animation, not a video or a generated replacement portrait.
 
 ## 💼 Experience
 
-**Web Development Intern — SkillDzire Technologies, Hyderabad**
-*May 2025 – Jun 2025*
+**Web Development Intern — SkillDzire Technologies, Hyderabad**  
+*May 2025 – June 2025*
 
-Worked on full-stack web features, REST APIs, database integrations, debugging, and Git-based development workflows.
-
----
+Worked on web development features, API integration, database-backed functionality, debugging and Git-based development workflows.
 
 ## 🎓 Education
 
-**B.Tech — Computer Science & Engineering**
-Aditya University, India · **2023 – 2027**
+**B.Tech — Computer Science & Engineering**  
+Aditya University, India · **2023–2027**
 
-**CGPA: 8.59 / 10**
+## 🌃 Contribution city
 
----
+*The city regenerates through GitHub Actions.*
 
-## 🔨 Currently Building
-
-**SentinelAI**
-Hardening the platform through authentication, testing, observability, and production-oriented improvements.
-
-**Building AI Agents**
-Progressively studying and implementing agent architecture — from tool use and memory toward planning, evaluation, and multi-agent systems.
-
----
-
-## 📈 What I'm Focused On
-
-Backend Engineering · AI Engineering · System Design · DSA · Cloud & DevOps
-
-I learn by **building, testing, debugging, and improving real software**.
-
----
+<div align="center">
+<img src="./profile-3d-contrib/profile-night-view.svg" alt="3D GitHub contribution city" width="100%"/>
+</div>
 
 ## 🤝 Connect
 
-[GitHub](https://github.com/ChandanLabs)
-[LinkedIn](https://www.linkedin.com/in/chandan-kumar-sah-teli-8718b6364/)
-[Portfolio](https://chandanlabs.github.io/Chandanportfolio/)
-[Email](mailto:chandansah.ai.dev@gmail.com)
-
----
-
 <div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-ChandanLabs-22d3ee?style=for-the-badge&logo=github&logoColor=0d0e16)](https://github.com/ChandanLabs)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandan-kumar-sah-teli-8718b6364/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-a78bfa?style=for-the-badge&logo=githubpages&logoColor=white)](https://chandanlabs.github.io/Chandanportfolio/)
+[![Email](https://img.shields.io/badge/Email-Contact-f472b6?style=for-the-badge&logo=gmail&logoColor=0d0e16)](mailto:chandansah.ai.dev@gmail.com)
+
+<br/>
+
+![Profile views](https://komarev.com/ghpvc/?username=ChandanLabs&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS)
 
 **Building systems. Learning deeply. Shipping in public.**
 
