@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 540" width="1280" height="540" role="img" aria-labelledby="title desc">
-<title id="title">Chandan Kumar Sah Teli — Java Developer & Automation Testing Learner</title>
+<title id="title">Chandan Kumar Sah Teli — Java Developer & Aspiring Automation Engineer</title>
 <desc id="desc">An animated midnight-glass developer hero with a Java-first identity, changing roles and an engineering dashboard.</desc>
 <defs>
   <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101426"/><stop offset=".55" stop-color="#0b1220"/><stop offset="1" stop-color="#171026"/></linearGradient>
@@ -41,7 +41,7 @@
   <text x="76" y="267" fill="url(#aurora)" font-size="47" font-weight="800" letter-spacing="-1.2" filter="url(#glow)">Sah Teli</text>
   <rect x="79" y="289" width="8" height="34" rx="4" fill="#38bdf8"/>
   <g class="role"><text x="105" y="313" fill="#eceef6" font-size="23" font-weight="700">Java Developer</text></g>
-  <g class="role r2"><text x="105" y="313" fill="#eceef6" font-size="23" font-weight="700">Automation Testing Learner</text></g>
+  <g class="role r2"><text x="105" y="313" fill="#eceef6" font-size="23" font-weight="700">Aspiring Automation Engineer</text></g>
   <g class="role r3"><text x="105" y="313" fill="#eceef6" font-size="23" font-weight="700">Backend &amp; Quality Engineering</text></g>
   <text x="79" y="362" fill="#aab2cb" font-size="17">Building useful software through Java-first development,</text>
   <text x="79" y="386" fill="#aab2cb" font-size="17">test automation, backend systems and continuous learning.</text>
