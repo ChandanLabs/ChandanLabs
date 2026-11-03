@@ -1,18 +1,18 @@
 <div align="center">
 
-<table><tr><td width="27%" align="center" valign="middle"><img src="./assets/chandan-portrait.jpg" width="220" alt="Original portrait of Chandan Kumar Sah Teli"/><br/><strong>B.Tech CSE · 2027</strong><br/>Java-first · Aditya University</td><td width="73%" valign="middle"><img src="./hero.svg?v=1" alt="Animated AI backend developer hero" width="100%"/></td></tr></table>
+<table><tr><td width="27%" align="center" valign="middle"><img src="./assets/chandan-portrait.jpg" width="220" alt="Original portrait of Chandan Kumar Sah Teli"/><br/><strong>B.Tech CSE · 2027</strong><br/>Java-first · Aditya University</td><td width="73%" valign="middle"><img src="./hero.svg?v=2" alt="Animated Java and automation testing developer hero" width="100%"/></td></tr></table>
 
 <br/><br/>
 
-<img src="./about-life.svg?v=1" alt="What I build and life beyond code" width="100%"/>
+<img src="./about-life.svg?v=2" alt="What I build and life beyond code" width="100%"/>
 
 <br/><br/>
 
-<img src="./stack.svg?v=1" alt="Continuously rotating technology orbit" width="100%"/>
+<img src="./stack.svg?v=2" alt="Continuously rotating technology orbit" width="100%"/>
 
 <br/><br/>
 
-<img src="./id-dashboard.svg?v=1" alt="Student developer ID and engineering dashboard" width="100%"/>
+<img src="./id-dashboard.svg?v=2" alt="Student developer ID and engineering dashboard" width="100%"/>
 
 <br/><br/>
 
@@ -81,14 +81,14 @@ Aditya University, India · **2023–2027**
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-ChandanLabs-22d3ee?style=for-the-badge&logo=github&logoColor=0d0e16)](https://github.com/ChandanLabs)
+[![GitHub](https://img.shields.io/badge/GitHub-ChandanLabs-38bdf8?style=for-the-badge&logo=github&logoColor=0b1220)](https://github.com/ChandanLabs)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandan-kumar-sah-teli-8718b6364/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-a78bfa?style=for-the-badge&logo=githubpages&logoColor=white)](https://chandanlabs.github.io/Chandanportfolio/)
-[![Email](https://img.shields.io/badge/Email-Contact-f472b6?style=for-the-badge&logo=gmail&logoColor=0d0e16)](mailto:chandansah.ai.dev@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-8b5cf6?style=for-the-badge&logo=githubpages&logoColor=white)](https://chandanlabs.github.io/Chandanportfolio/)
+[![Email](https://img.shields.io/badge/Email-Contact-34d399?style=for-the-badge&logo=gmail&logoColor=0d0e16)](mailto:chandansah.ai.dev@gmail.com)
 
 <br/>
 
-![Profile views](https://komarev.com/ghpvc/?username=ChandanLabs&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile views](https://komarev.com/ghpvc/?username=ChandanLabs&color=8b5cf6&style=for-the-badge&label=PROFILE+VIEWS)
 
 **Java-first. Quality-minded. A fast learner, always building and improving.**
 
