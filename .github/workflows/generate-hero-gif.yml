@@ -45,9 +45,22 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add hero.gif
-          if ! git diff --cached --quiet; then
-            git commit -m "chore: regenerate animated Java-first hero banner"
-            git push
-          else
+          if git diff --cached --quiet; then
             echo "Hero GIF is already up to date."
+            exit 0
           fi
+          git commit -m "chore: regenerate animated Java-first hero banner"
+
+          # Other profile workflows may update main at the same time.
+          # Rebase on the latest main and retry a non-force push.
+          for attempt in 1 2 3 4; do
+            git fetch origin main
+            git rebase origin/main
+            if git push origin HEAD:main; then
+              exit 0
+            fi
+            echo "Push attempt ${attempt} failed; retrying after refreshing main."
+            sleep 3
+          done
+          echo "Could not publish hero.gif after four attempts."
+          exit 1
