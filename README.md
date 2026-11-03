@@ -1,6 +1,6 @@
 <div align="center">
 
-<table><tr><td width="27%" align="center" valign="middle"><img src="./assets/chandan-portrait.jpg" width="220" alt="Original portrait of Chandan Kumar Sah Teli"/><br/><strong>B.Tech CSE · 2027</strong><br/>Java-first · Aditya University</td><td width="73%" valign="middle"><img src="./hero.svg?v=2" alt="Animated Java and automation testing developer hero" width="100%"/></td></tr></table>
+<table><tr><td width="27%" align="center" valign="middle"><img src="./assets/chandan-portrait.jpg" width="220" alt="Original portrait of Chandan Kumar Sah Teli"/><br/><strong>B.Tech CSE · 2027</strong><br/>Java-first · Aditya University</td><td width="73%" valign="middle"><img src="./hero.gif?v=1" alt="Animated Java-first developer banner with a rotating software-testing technology orbit" width="100%"/></td></tr></table>
 
 <br/><br/>
 
