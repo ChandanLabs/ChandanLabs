@@ -33,7 +33,7 @@
 This section is refreshed automatically from testing-related commits detected in my **public GitHub activity**. Entries link to their source commits.
 
 <!-- TESTING-ACTIVITY:START -->
-<p><em>No recent public testing-focused commits detected yet. As I push test-related work to public repositories, this section will update automatically.</em></p>
+<p><em>No recent public testing-focused commits detected in the latest scan. This section updates when testing-related commits are pushed to public repositories.</em></p>
 <!-- TESTING-ACTIVITY:END -->
 
 ## 👨‍💻 About me
