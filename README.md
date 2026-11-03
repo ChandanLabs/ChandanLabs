@@ -38,7 +38,7 @@ This section is refreshed automatically from testing-related commits detected in
 
 ## 👨‍💻 About me
 
-I'm a **B.Tech Computer Science & Engineering student at Aditya University**, graduating in **2027**, focused on **Java, backend development and software quality**. I'm a **fast learner** who enjoys learning by building, taking feedback and improving through consistent practice. I'm currently **upskilling in software automation testing**, with Java as my primary programming language.
+I'm a **B.Tech Computer Science & Engineering student at Aditya University**, graduating in **2027**, focused on **Java, backend development and software quality**. I'm a **fast learner** who enjoys learning by building, taking feedback and improving through consistent practice. I'm currently **upskilling in software automation testing toward the Associate Automation Engineer skill set**, with Java as my primary programming language.
 
 - Strengthening Core Java, OOP, Collections, Streams, exception handling and problem-solving fundamentals.
 - Currently upskilling in software automation testing, with a learning focus on Selenium WebDriver, Playwright, TestNG, Cucumber, REST Assured and Postman.
@@ -84,7 +84,7 @@ Aditya University, India · **2023–2027**
 [![GitHub](https://img.shields.io/badge/GitHub-ChandanLabs-38bdf8?style=for-the-badge&logo=github&logoColor=0b1220)](https://github.com/ChandanLabs)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandan-kumar-sah-teli-8718b6364/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-8b5cf6?style=for-the-badge&logo=githubpages&logoColor=white)](https://chandanlabs.github.io/Chandanportfolio/)
-[![Email](https://img.shields.io/badge/Email-Contact-34d399?style=for-the-badge&logo=gmail&logoColor=0d0e16)](mailto:chandansah.ai.dev@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-34d399?style=for-the-badge&logo=gmail&logoColor=0b1220)](mailto:chandansah.ai.dev@gmail.com)
 
 <br/>
 
