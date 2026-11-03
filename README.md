@@ -1,6 +1,6 @@
 <div align="center">
 
-<table><tr><td width="27%" align="center" valign="middle"><img src="./assets/chandan-portrait.jpg" width="220" alt="Original portrait of Chandan Kumar Sah Teli"/><br/><strong>B.Tech CSE Student · 2027</strong><br/>Aditya University</td><td width="73%" valign="middle"><img src="./hero.svg?v=1" alt="Animated AI backend developer hero" width="100%"/></td></tr></table>
+<table><tr><td width="27%" align="center" valign="middle"><img src="./assets/chandan-portrait.jpg" width="220" alt="Original portrait of Chandan Kumar Sah Teli"/><br/><strong>B.Tech CSE · 2027</strong><br/>Java-first · Aditya University</td><td width="73%" valign="middle"><img src="./hero.svg?v=1" alt="Animated AI backend developer hero" width="100%"/></td></tr></table>
 
 <br/><br/>
 
@@ -28,26 +28,34 @@
 | [**Building AI Agents**](https://github.com/ChandanLabs/Building-AI-agents) | Practical exploration of tool use, memory, RAG, planning and agent evaluation | Python · JavaScript · Gemini API · OpenAI API |
 | [**SubmitReady**](https://github.com/ChandanLabs/submitready-aws) | Pre-submission validation workflow for application and scholarship packets | Node.js · AWS SAM · Lambda |
 
+## 🧪 Testing & Automation Activity
+
+This section is refreshed automatically from testing-related commits detected in my **public GitHub activity**. Entries link to their source commits.
+
+<!-- TESTING-ACTIVITY:START -->
+<p><em>No recent public testing-focused commits detected yet. As I push test-related work to public repositories, this section will update automatically.</em></p>
+<!-- TESTING-ACTIVITY:END -->
+
 ## 👨‍💻 About me
 
-I'm a **B.Tech Computer Science & Engineering student at Aditya University**, graduating in **2027**, focused on backend engineering and AI-enabled software.
+I'm a **B.Tech Computer Science & Engineering student at Aditya University**, graduating in **2027**, focused on **Java, backend development and software quality**. I'm a **fast learner** who enjoys learning by building, taking feedback and improving through consistent practice. I'm currently **upskilling in software automation testing**, with Java as my primary programming language.
 
-- Building backend services, REST APIs, database-backed applications and AI integrations.
-- Learning cloud and DevOps workflows through hands-on projects.
-- Practising data structures, algorithms and core computer science fundamentals.
-- Interested in software engineering and AI engineering internship opportunities.
+- Strengthening Core Java, OOP, Collections, Streams, exception handling and problem-solving fundamentals.
+- Currently upskilling in software automation testing, with a learning focus on Selenium WebDriver, Playwright, TestNG, Cucumber, REST Assured and Postman.
+- Exploring test design, execution, debugging, Maven, JIRA/Xray, Git, CI/CD, SQL and Linux workflows.
+- Building backend services and API-driven applications while continuously learning through hands-on projects.
 
 ## 🧰 Technology orbit
 
-**Languages:** Java · JavaScript · Python · TypeScript  
-**Backend:** Node.js · Express.js · Spring Boot · FastAPI · REST APIs  
-**Frontend:** React · Next.js · HTML · CSS  
-**AI/ML:** Generative AI · Gemini API · OpenAI API · AI agents · anomaly detection  
-**Data:** PostgreSQL · MySQL · MongoDB  
-**Engineering tools:** IntelliJ IDEA · VS Code · Git · GitHub · GitHub Actions · QA testing  
-**Infrastructure:** Docker · Linux · Kubernetes *(currently learning)*
+**Primary language:** **Java** · OOP · Collections · Streams · Lambda expressions · Exception handling · Java I/O  
+**Backend & APIs:** Spring Boot · Node.js · Express.js · FastAPI · REST APIs  
+**Software automation testing — currently upskilling:** Selenium WebDriver · Playwright · TestNG · Cucumber · REST Assured · Postman  
+**Build & test tools:** Maven · JIRA · Xray · Git · GitHub Actions  
+**Data:** MySQL · MongoDB · PostgreSQL · SQL  
+**Cloud & systems:** Jenkins · Docker · Linux · AWS fundamentals · Kubernetes *(learning)*  
+**AI tools:** Gemini · Claude · AI-assisted development
 
-The animated orbit above highlights these tools; its motion is created with SVG animation, not a video or a generated replacement portrait.
+Java is the centre of the technology orbit; the surrounding languages, frameworks and testing tools represent areas I use or am actively learning. The orbit is animated with SVG.
 
 ## 💼 Experience
 
@@ -82,6 +90,6 @@ Aditya University, India · **2023–2027**
 
 ![Profile views](https://komarev.com/ghpvc/?username=ChandanLabs&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS)
 
-**Building systems. Learning deeply. Shipping in public.**
+**Java-first. Quality-minded. A fast learner, always building and improving.**
 
 </div>
