@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 640" width="1280" height="640" role="img" aria-labelledby="title desc">
-<title id="title">What I build and life beyond code</title><desc id="desc">Two midnight-glass cards show backend capabilities and an animated carousel of coding, AI, learning and fitness interests.</desc>
+<title id="title">What I build and life beyond code</title><desc id="desc">Two midnight-glass cards show Java-first engineering, software automation testing and a carousel of learning and problem-solving interests.</desc>
 <defs>
  <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#141a2a"/><stop offset="1" stop-color="#0e1019"/></linearGradient>
  <linearGradient id="a" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#38bdf8"/><stop offset=".52" stop-color="#8b5cf6"/><stop offset="1" stop-color="#34d399"/></linearGradient>
