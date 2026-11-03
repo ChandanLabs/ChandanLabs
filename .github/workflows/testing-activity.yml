@@ -27,7 +27,7 @@ jobs:
 
       - name: Detect testing-related public commits
         env:
-          GITHUB_USERNAME: \${{ github.repository_owner }}
+          GITHUB_USERNAME: ${{ github.repository_owner }}
         run: node scripts/update-testing-activity.js
 
       - name: Commit README activity update
